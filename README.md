@@ -6,7 +6,7 @@
 - 🌱 My goal is to create a world where humans and robots coexist by developing autonomous driving software. It is very enjoyable to test the algorithm that I have implemented on vehicles and robots.  
   
 
-- 😃 Research interest : Robotics, Autonomous driving system, AI (Graph Neural Networks,Deep Learning) Prediction, Planning  
+- 😃 Research interest : Robotics, Autonomous driving system, AI (Graph Neural Networks, Deep Learning) Prediction, Planning  
   
 
 <br/>  
