@@ -13,6 +13,8 @@
 
 ## my website  
 <a href="http://www.seung1.com/" target="_blank">
+<img src=https://img.shields.io/badge/googlehome-%4285F4.svg?&style=for-the-badge&logo=website&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 <br/>
   
   
