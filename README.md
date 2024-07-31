@@ -8,15 +8,6 @@
 
 - 😃 Research interest : Robotics, Autonomous driving system, AI (Graph Neural Networks, Deep Learning) Prediction, Planning  
   
-
-<br/>  
-
-## my website  
-<a href="http://www.seung1.com/" target="_blank">
-<img src=https://img.shields.io/badge/mywebsite-%4285F4.svg?&style=for-the-badge&logo=googlehome&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<br/>
-  
   
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
